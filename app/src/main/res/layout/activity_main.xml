@@ -44,6 +44,5 @@
         android:id="@+id/btCriarConta"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="telaCadastro"
         android:text="Criar uma conta" />
 </LinearLayout>
